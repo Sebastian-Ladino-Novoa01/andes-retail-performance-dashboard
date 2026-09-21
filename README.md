@@ -1,11 +1,8 @@
-# andes-retail-performance-dashboard
-power-bi  dax  power-query  dashboard  data-visualization  retail  business-intelligence
-
 # Commercial Performance Dashboard — Andes Retail Group (Power BI)
 
 Two-view Power BI dashboard analysing 2024–2025 sales for a retailer operating in Peru, Chile and Colombia, built to answer how revenue evolved and what explains its swings.
 
-![Overview](images/dashboard-overview.png)
+![Overview](dashboard-overview.png)
 
 ## Business Question
 
@@ -59,7 +56,7 @@ A data preparation step in Power Query fixed date formats, corrected numeric typ
 
 ## What the Dashboard Shows
 
-![Detail](images/dashboard-detail.png)
+![Detail](dashboard-detail.png)
 
 ### Revenue is seasonal, and the pattern repeats
 
@@ -120,8 +117,8 @@ A 0.30 percentage point spread between the best and worst category. No category 
 
 ## Files
 
-- [`dashboard-overview.png`](images/dashboard-overview.png) — Overview page
-- [`dashboard-detail.png`](images/dashboard-detail.png) — Detail page
+- [`dashboard-overview.png`](dashboard-overview.png) — Overview page
+- [`dashboard-detail.png`](dashboard-detail.png) — Detail page
 - `andes_retail_dashboard.pbix` — Power BI file, opens in Power BI Desktop (Windows)
 
 ## Tools
